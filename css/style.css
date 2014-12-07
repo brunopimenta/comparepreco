@@ -112,8 +112,8 @@ ul.navig li a.active{
 .save{
 	background:url(../images/save-bg.jpg)no-repeat;
 	background-size:cover;
-	min-height:350px;
-	padding:1em 10px;
+	min-height:100px;
+	padding:1em 50px;
 }
 .save-row{}
 .save-grid{
